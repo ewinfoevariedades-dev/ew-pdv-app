@@ -1,0 +1,23 @@
+{
+  "name": "EW PDV",
+  "short_name": "EW PDV",
+  "description": "Sistema de Ponto de Venda EW PDV",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "https://drive.google.com/thumbnail?id=11Qnh10TNM6ol-Qj7OwCcmqDyV-L3IGik&sz=w192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/thumbnail?id=11Qnh10TNM6ol-Qj7OwCcmqDyV-L3IGik&sz=w512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
